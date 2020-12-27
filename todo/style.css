@@ -1,0 +1,71 @@
+body{
+	 background-image: url(flagg.jpg);
+    background-repeat:no-repeat;
+    background-size: auto;
+    background-position:center;
+   height: 100%;
+
+}
+#container{
+    background: #000365;
+    margin-top: 119px;
+    width: 565px;
+    margin-left: 43vh;
+    margin-right: auto;
+    text-align: center;
+     height: auto; 
+    padding-top: 5px;
+    border-radius: 22px;
+    padding-bottom: 25px;
+}
+
+h1{
+	    color: gold;
+    background: repeating-linear-gradient(45deg,#14afde, transparent 67px);
+}
+
+#add{
+
+    background: repeating-linear-gradient(-152deg, brown, transparent 3px);
+    color: lightyellow;
+    font-weight: 900;
+    height: 34px;
+    width: 100px;
+}
+#task{
+	width: 220px;
+	height: 34px;
+	margin-top: 30px;
+    background: powderblue;
+}
+ul{
+	text-align: center;
+    font-family: fantasy;
+    color: cornsilk;
+    padding-left: 94px;
+    padding-top: 2px;
+}
+
+li{    text-align: initial;
+    letter-spacing: 1px;
+    padding-left: -8px;
+    line-height: 34px;
+    margin-top: 4px;
+    margin-right: 59px;
+}
+.remove {
+	
+	margin-top:13px;
+	/*margin-left:150px;*/
+	background-color: #f2f205;
+	float:right;
+	clear:both;
+	padding-right:20px;
+	border-radius:5px;
+
+
+	width:60px;
+	height:20px;
+	
+	border-style: none;
+}
